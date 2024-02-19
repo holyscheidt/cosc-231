@@ -1,0 +1,10 @@
+{
+    "name": "AngelPhish",
+    "version": "1.0",
+    "manifest_version": 3, 
+    "description": "Extenstion to detect and warn users of phishing websites",
+    "action": {
+        "default_icon": "angelphish_icon.png",
+        "default_popup": "angelphish_index.html"
+    }
+}
