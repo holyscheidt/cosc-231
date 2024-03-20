@@ -1,10 +1,10 @@
 {
-    "name": "AngelPhish",
+    "manifest_version": 3,
+    "name": "Hello Extensions",
+    "description": "Base Level Extension",
     "version": "1.0",
-    "manifest_version": 3, 
-    "description": "Extenstion to detect and warn users of phishing websites",
     "action": {
-        "default_icon": "angelphish_icon.png",
-        "default_popup": "angelphish_index.html"
+      "default_popup": "hello.html",
+      "default_icon": "hello_extensions.png"
     }
-}
+  }
